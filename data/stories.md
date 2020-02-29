@@ -29,3 +29,30 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## story_joke_01
+* joke
+ - action_joke
+
+ ## story_joke_02
+* greet
+ - utter_greet
+* joke
+ - action_joke
+
+ ## say location
+ * location
+  - utter_location
+
+## say thanks
+* thanks
+ - utter_thanks  
+
+## bot insult
+* insult
+  - utter_respond_insult
+
+## ask name path
+* greet
+  - utter_short_greet
+  - utter_ask_name

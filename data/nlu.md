@@ -1,56 +1,91 @@
 ## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- hey there
+- hej
+- witaj
+- cześć
+- dzień dobry
+- dobry wieczór
+- siema
 
 ## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
+- pa
+- do widzenia
+- na razie
+- do zobaczenia później
 
 ## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
+- tak
+- w rzeczy samej
+- oczywiście
+- to brzmi dobrze
+- poprawnie
 
 ## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
+- nie
+- nigdy
+- nie wydaje mi się
+- nie podoba mi się to
+- nie ma mowy
+- nie całkiem
 
 ## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
+- doskonale
+- bardzo dobrze
+- świetnie
+- niesamowicie
+- wspaniale
+- czuję się bardzo dobrze
+- jestem zadowolony
+- jestem uradowany
 
 ## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
+- smutny
+- bardzo smutny
+- nieszczęśliwy
+- źle
+- bardzo źle
+- okropnie
+- okropne
+- niezbyt dobrze
+- ekstremalnie smutny
+- trochę smutny
 
 ## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
+- jesteś botem?
+- jesteś człowiekiem?
+- czy rozmawiam z botem?
+- czy rozmawiam z człowiekiem?
+
+## intent:joke
+- czy możesz opowiedzieć mi żart?
+- chciałbym usłyszeć żart
+- opowiedz mi dowcip
+- żart proszę
+- opowiedz mi żart
+- czy potrafisz opowiadać dowcipy?
+- muszę usłyszeć żart
+
+## intent:location
+- gdzie jesteś?
+- gdzie mieszkasz?
+- gdzie teraz jesteś?
+
+## intent:insult
+- kurwo
+- chuju
+- huju
+- cipo
+- pizdo
+- debilu
+- cioto
+
+## intent:thanks
+- dzięki
+- dziękuję
+- dziękuję ci
+- bardzo ci dziękuję
+
+## intent:name_inform
+- mam na imię [Kamil] (user_name)
+- nazywam się [Kamil] (user_name)
+- [Kamil] (user_name)
+- mów mi [Kamil] (user_name)
